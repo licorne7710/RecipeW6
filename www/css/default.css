@@ -8,9 +8,9 @@
             background-color: white;
             margin-left:-14rem;
             border:0;
-
-          }
-        nav:hover {margin-left:0;background-color:aliceblue;}
+            opacity:0.5;
+            }
+        nav:hover {margin-left:0;background-color:aliceblue;opacity:1;}
         nav ul {padding:25px;}
 
           img {border:7px solid black;padding:5px;
@@ -18,10 +18,10 @@
           }
 
           article {
-              width:30rem;
+              width:20rem;
               margin:auto;
-              margin-top: 4rem;
-              min-width: 30rem;
+              margin-top: 8rem;
+              min-width: 15rem;
               max-width:50rem;
                 }
           h1 {margin-top:0;
